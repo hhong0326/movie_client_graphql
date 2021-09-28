@@ -1,2 +1,2 @@
-# movie_client_graphql
-Client for movie App with Apollo
+# movie_server_graphql
+Server for movie App with Apollo
